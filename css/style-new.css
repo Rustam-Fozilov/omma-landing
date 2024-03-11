@@ -550,7 +550,7 @@ nav > div:first-child {
 .about-us-container {
   display: flex;
   min-height: 600px;
-  padding-top: 72px;
+  /*padding-top: 72px;*/
 }
 .left-content {
   width: 50%;
