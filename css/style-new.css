@@ -707,8 +707,8 @@ nav > div:first-child {
   font-family: "Source Sans Pro";
   font-style: normal;
   font-weight: 700;
-  font-size: 26px;
-  line-height: 33px;
+  font-size: 16px;
+  /*line-height: 33px;*/
   color: #76cdd8;
 }
 .sample-works-locatin {
